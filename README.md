@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgafaqsapp.ccbp.tech/](https://durgafaqsapp.ccbp.tech/)🔗
+## **_Website_**:[https://faqs-app-wine.vercel.app/](https://faqs-app-wine.vercel.app/)🔗
 
 
 
